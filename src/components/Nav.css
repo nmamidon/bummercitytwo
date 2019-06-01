@@ -1,0 +1,51 @@
+
+nav {
+	border-top: 1px solid #B5B1B1;
+}
+
+nav ul {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	background:white;
+}
+
+nav ul li {
+	list-style:none;
+}
+
+nav ul li a {
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	padding:10px 10px;
+	transition:0.2s;
+	border-bottom:1px solid white;
+	color:#787777;
+}
+
+nav ul li a:hover {
+	background:#ffffff;
+	border-bottom:1px solid black;
+	color:#000000;
+}
+
+nav ul li ul {
+	display:block;
+	position:absolute;
+	transition: 0.2s;
+	opacity:0;
+	visibility:hidden;
+	margin:0px;
+	padding:0px;
+	background:#E8E8E8;
+}
+
+nav ul li:hover ul {
+	opacity:100;
+	visibility:visible;
+}
+
+nav ul li ul li a {
+	padding:10px 30px;
+}
