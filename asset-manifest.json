@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nmamidon/bummercitytwo/static/css/main.01d352e3.chunk.css",
+    "main.js": "/nmamidon/bummercitytwo/static/js/main.3b9b31e2.chunk.js",
+    "main.js.map": "/nmamidon/bummercitytwo/static/js/main.3b9b31e2.chunk.js.map",
+    "runtime~main.js": "/nmamidon/bummercitytwo/static/js/runtime~main.bcd158ae.js",
+    "runtime~main.js.map": "/nmamidon/bummercitytwo/static/js/runtime~main.bcd158ae.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/nmamidon/bummercitytwo/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.4e537096.chunk.js": "/nmamidon/bummercitytwo/static/js/2.4e537096.chunk.js",
+    "static/js/2.4e537096.chunk.js.map": "/nmamidon/bummercitytwo/static/js/2.4e537096.chunk.js.map",
+    "index.html": "/nmamidon/bummercitytwo/index.html",
+    "precache-manifest.d5248fb256e928e1a8c9c4bf21362c66.js": "/nmamidon/bummercitytwo/precache-manifest.d5248fb256e928e1a8c9c4bf21362c66.js",
+    "service-worker.js": "/nmamidon/bummercitytwo/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/nmamidon/bummercitytwo/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.01d352e3.chunk.css.map": "/nmamidon/bummercitytwo/static/css/main.01d352e3.chunk.css.map",
+    "static/media/BCHSbanner.png": "/nmamidon/bummercitytwo/static/media/BCHSbanner.f5ad3171.png",
+    "static/media/bawg-printed-everything.jpg": "/nmamidon/bummercitytwo/static/media/bawg-printed-everything.308ba1b2.jpg",
+    "static/media/bcbcamanda.jpg": "/nmamidon/bummercitytwo/static/media/bcbcamanda.c0cc81d6.jpg",
+    "static/media/cheese_boys_open_mic.jpg": "/nmamidon/bummercitytwo/static/media/cheese_boys_open_mic.6aed7760.jpg",
+    "static/media/civic_engagement_and_matt.jpg": "/nmamidon/bummercitytwo/static/media/civic_engagement_and_matt.aae01848.jpg",
+    "static/media/jimmy_and_lou.jpg": "/nmamidon/bummercitytwo/static/media/jimmy_and_lou.489ddbb4.jpg",
+    "static/media/kelly_house_show.jpg": "/nmamidon/bummercitytwo/static/media/kelly_house_show.7c29933c.jpg",
+    "static/media/kona.jpg": "/nmamidon/bummercitytwo/static/media/kona.4ba2d681.jpg",
+    "static/media/legsnacks.jpeg": "/nmamidon/bummercitytwo/static/media/legsnacks.9c5bd599.jpeg",
+    "static/media/marty_and_fam.jpg": "/nmamidon/bummercitytwo/static/media/marty_and_fam.e2bd126e.jpg",
+    "static/media/matt.jpg": "/nmamidon/bummercitytwo/static/media/matt.b309dd18.jpg",
+    "static/media/mcproffy1.jpg": "/nmamidon/bummercitytwo/static/media/mcproffy1.285465bb.jpg",
+    "static/media/wafflecaper.jpg": "/nmamidon/bummercitytwo/static/media/wafflecaper.8c303298.jpg"
+  }
+}
