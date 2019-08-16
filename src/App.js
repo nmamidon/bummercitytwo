@@ -20,6 +20,7 @@ import Leg from './components/Leg';
 import EventsList from './components/EventsList';
 import HouseShow from './components/HouseShow';
 import McTheProfessor from './components/McTheProfessor';
+import People from './components/People';
 import 'tachyons';
 
 
@@ -75,6 +76,8 @@ class App extends Component {
       return <HouseShow />
     } else if (page==="mctheprofessor") {
       return <McTheProfessor />
+    } else if (page==="people") {
+      return <People />
     } 
   }
 
