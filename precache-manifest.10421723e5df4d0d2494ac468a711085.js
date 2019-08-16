@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24c49fee4d8cc9363d174fdb12740814",
+    "revision": "4f19e8d73b193b6e3299730935253699",
     "url": "/bummercitytwo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bummercitytwo/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "1319ea922fcb41fdbf51",
+    "revision": "0b67fec95b1a2b68d7c4",
     "url": "/bummercitytwo/static/css/main.1df31517.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bummercitytwo/static/js/2.ec7d5ecc.chunk.js"
   },
   {
-    "revision": "1319ea922fcb41fdbf51",
-    "url": "/bummercitytwo/static/js/main.726a0ef0.chunk.js"
+    "revision": "0b67fec95b1a2b68d7c4",
+    "url": "/bummercitytwo/static/js/main.849cad3b.chunk.js"
   },
   {
     "revision": "92cad8a81e7a7bb3045c",
