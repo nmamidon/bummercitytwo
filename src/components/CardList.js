@@ -45,9 +45,6 @@ const CardList = ({ routeChange }) => {
 			<div className="ma3 ba b--moon-gray br4 pa3 w-third">
 				<img src={Cheeseboys} alt="didn't work" className="br2"/>
 				<h2 className="baskerville tc"><a href="#" onClick={()=>{routeChange("openmic")}}>Bummer City Open Mic</a></h2>
-				<ul className="list">
-					<li><a href="#" onClick={()=>{routeChange("pastfeatures")}}>Past Features</a></li>
-					<li><a href="#" onClick={()=>{routeChange("pictures")}}>Pictures</a></li>				</ul>
 			</div>
 
 			<div className="ma3 ba b--moon-gray br4 pa3 w-third">
