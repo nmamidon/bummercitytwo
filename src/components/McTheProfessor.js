@@ -1,5 +1,6 @@
 import React from 'react';
 import Sidebar from './Sidebar';
+import mcproffy1 from '../img/mcproffy1.jpg';
 
 const McTheProfessor = () => {
 	return (
@@ -22,6 +23,7 @@ const McTheProfessor = () => {
 		    		<li>#4 - A Brief History of Japanese Americans</li>
 		    		<li>#5 - Testimony-as-Activism: Why Storytelling Matters</li>
 		    	</ul>
+		    	<img src={mcproffy1} alt="McProffy awesomeness"/>
 		    </div>
 	         <Sidebar />
          </div>

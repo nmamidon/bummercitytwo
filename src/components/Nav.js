@@ -15,13 +15,10 @@ const Nav = ({ routeChange }) => {
 						<li><a href="#" onClick={()=>{routeChange("civicengagement")}}>Civic Engagement Opportunities</a></li>
 					</ul>
 				</li>
-				<li><a href="#" onClick={()=>{routeChange("people")}}>Lifetime Board Members</a></li>
-				<li><a href="#" onClick={()=>{routeChange("openmic")}}>BCOM - Bummer City Open Mic</a>
-					<ul>
-						<li><a href="#" onClick={()=>{routeChange("pastfeatures")}}>Past Features</a></li>
-						<li><a href="#" onClick={()=>{routeChange("pictures")}}>Pictures</a></li>
-					</ul>
-				</li>
+				{
+					//<li><a href="#" onClick={()=>{routeChange("people")}}>Lifetime Board Members</a></li>
+				}
+				<li><a href="#" onClick={()=>{routeChange("openmic")}}>BCOM - Bummer City Open Mic</a></li>
 				<li><a href="#"onClick={()=>{routeChange("eventslist")}}>Events & Meetings</a></li>
 				<li><a href="#" onClick={()=>{routeChange("houseshow")}}>House Show Theory & Practice</a></li>
 				<li><a href="#" onClick={()=>{routeChange("bcbc")}}>BCBC - Bummer City Billiards Club</a></li>

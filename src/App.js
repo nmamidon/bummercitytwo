@@ -13,8 +13,6 @@ import Issues from './components/Issues';
 import LocalGov from './components/LocalGov';
 import CivicEngagement from './components/CivicEngagement';
 import OpenMic from './components/OpenMic';
-import PastFeatures from './components/PastFeatures';
-import Pictures from './components/Pictures';
 import Bcbc from './components/Bcbc';
 import Leg from './components/Leg';
 import EventsList from './components/EventsList';
@@ -62,10 +60,6 @@ class App extends Component {
       return <CivicEngagement />
     } else if (page==="openmic") {
       return <OpenMic />
-    } else if (page==="pastfeatures") {
-      return <PastFeatures />
-    } else if (page==="pictures") {
-      return <Pictures />
     } else if (page==="bcbc") {
       return <Bcbc />
     } else if (page==="leg") {

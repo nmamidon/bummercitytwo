@@ -1,5 +1,6 @@
 import React from 'react';
 import Sidebar from './Sidebar';
+import bawgprintedeverything from '../img/bawg-printed-everything.jpg';
 
 const Bawg = () => {
 	return (
@@ -12,6 +13,7 @@ const Bawg = () => {
 				<p>Our thematic directions vary widely from issue to issue -- our driving principles include effusive commemoration (aka getting hype), as well as camaraderie. we hate commodification. we love public spaces -- willful co-optation -- intentionality, hash browns. we're not necessarily being literal.</p>
 				<p>WE ARE CURRENTLY TAKING SUBMISSIONS FOR OUR SECOND ISSUE! submission details/prompts can be found here --> <a href="https://cooltapes.itch.io/bawg2">cooltapes.itch.io/bawg2</a></p>
 				<p>download free digital copies of our past issues here --> <a href="https://cooltapes.itch.io/bawg">cooltapes.itch.io/bawg</a></p>
+	        	<img src={bawgprintedeverything} alt=""/>
 	        </div>
 	        <Sidebar />
         </div>
