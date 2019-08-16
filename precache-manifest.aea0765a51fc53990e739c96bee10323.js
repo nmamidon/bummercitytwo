@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff392ec9caa1a31d7349c530d28619e0",
+    "revision": "efc64a8e3ed05ced627b45958376a741",
     "url": "/bummercitytwo/index.html"
   },
   {
-    "revision": "5e066d84974e64939ab5",
+    "revision": "0f2cd1d3d35972494c59",
     "url": "/bummercitytwo/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "458912d1a706b424abca",
+    "revision": "0c8a26ba3ad351a66af0",
     "url": "/bummercitytwo/static/css/main.01d352e3.chunk.css"
   },
   {
-    "revision": "5e066d84974e64939ab5",
-    "url": "/bummercitytwo/static/js/2.4e537096.chunk.js"
+    "revision": "0f2cd1d3d35972494c59",
+    "url": "/bummercitytwo/static/js/2.07e9215e.chunk.js"
   },
   {
-    "revision": "458912d1a706b424abca",
-    "url": "/bummercitytwo/static/js/main.6945eacf.chunk.js"
+    "revision": "0c8a26ba3ad351a66af0",
+    "url": "/bummercitytwo/static/js/main.998f2d9d.chunk.js"
   },
   {
     "revision": "92cad8a81e7a7bb3045c",
@@ -34,6 +34,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0cc81d6ec9d2947e80886b23ef7760d",
     "url": "/bummercitytwo/static/media/bcbcamanda.c0cc81d6.jpg"
+  },
+  {
+    "revision": "315cd8cf705b6e0c98c61537b94f12e9",
+    "url": "/bummercitytwo/static/media/bcbcblurryamanda.315cd8cf.JPG"
+  },
+  {
+    "revision": "2c2a93e1030902418347421a669090c4",
+    "url": "/bummercitytwo/static/media/bcbccomic.2c2a93e1.JPG"
+  },
+  {
+    "revision": "218777fbd4262103f20463a2b0c17e9a",
+    "url": "/bummercitytwo/static/media/bcbclongshot.218777fb.jpg"
+  },
+  {
+    "revision": "8925cdf4c413d7c9c4d3879a1ed0de00",
+    "url": "/bummercitytwo/static/media/bcbcmatt.8925cdf4.jpg"
+  },
+  {
+    "revision": "407dd03d6e166b9ddb86bcc5c8043fd6",
+    "url": "/bummercitytwo/static/media/bcbcmilner.407dd03d.jpg"
   },
   {
     "revision": "6aed77609ca67bc54cad0aba79825ff9",
@@ -54,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4ba2d681fcb12044b03dc1f9fe4f3c28",
     "url": "/bummercitytwo/static/media/kona.4ba2d681.jpg"
+  },
+  {
+    "revision": "f2c008058ffd17cff3305752b712dc48",
+    "url": "/bummercitytwo/static/media/legcouch.f2c00805.jpg"
+  },
+  {
+    "revision": "3276b4b13fb3f068d529851d2d4b4506",
+    "url": "/bummercitytwo/static/media/legguitar.3276b4b1.png"
   },
   {
     "revision": "9c5bd599bb24c3291dedd886e2438d1f",
