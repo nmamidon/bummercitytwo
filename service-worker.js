@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bummercitytwo/precache-manifest.0dd9b1b7df737d97445c7684efbafa3a.js"
+  "/bummercitytwo/precache-manifest.0807eef1a3f60a89c56723d98dad9678.js"
 );
 
 self.addEventListener('message', (event) => {

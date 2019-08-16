@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "599d9d7edd224210b10a6dd7c1b83be0",
+    "revision": "24c49fee4d8cc9363d174fdb12740814",
     "url": "/bummercitytwo/index.html"
   },
   {
-    "revision": "22d5c7b20df10871323d",
+    "revision": "4a39a780ac514fe39c9a",
     "url": "/bummercitytwo/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "05905237b0101320efa0",
+    "revision": "1319ea922fcb41fdbf51",
     "url": "/bummercitytwo/static/css/main.1df31517.chunk.css"
   },
   {
-    "revision": "22d5c7b20df10871323d",
-    "url": "/bummercitytwo/static/js/2.7a68c914.chunk.js"
+    "revision": "4a39a780ac514fe39c9a",
+    "url": "/bummercitytwo/static/js/2.ec7d5ecc.chunk.js"
   },
   {
-    "revision": "05905237b0101320efa0",
-    "url": "/bummercitytwo/static/js/main.675a7b58.chunk.js"
+    "revision": "1319ea922fcb41fdbf51",
+    "url": "/bummercitytwo/static/js/main.726a0ef0.chunk.js"
   },
   {
     "revision": "92cad8a81e7a7bb3045c",
