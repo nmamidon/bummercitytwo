@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f19e8d73b193b6e3299730935253699",
+    "revision": "da6585039183dd7f7cd7c38c27667810",
     "url": "/bummercitytwo/index.html"
   },
   {
-    "revision": "4a39a780ac514fe39c9a",
+    "revision": "c30ddea65cc362ea6ddc",
     "url": "/bummercitytwo/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "0b67fec95b1a2b68d7c4",
+    "revision": "06ee6096c4c6b5821c9f",
     "url": "/bummercitytwo/static/css/main.1df31517.chunk.css"
   },
   {
-    "revision": "4a39a780ac514fe39c9a",
-    "url": "/bummercitytwo/static/js/2.ec7d5ecc.chunk.js"
+    "revision": "c30ddea65cc362ea6ddc",
+    "url": "/bummercitytwo/static/js/2.df11d8de.chunk.js"
   },
   {
-    "revision": "0b67fec95b1a2b68d7c4",
-    "url": "/bummercitytwo/static/js/main.849cad3b.chunk.js"
+    "revision": "06ee6096c4c6b5821c9f",
+    "url": "/bummercitytwo/static/js/main.3137dd0a.chunk.js"
   },
   {
     "revision": "92cad8a81e7a7bb3045c",
@@ -112,7 +112,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bummercitytwo/static/media/openmicmckinley.2afecf45.jpg"
   },
   {
+    "revision": "10ab412f105334422e5ff2555aef63d6",
+    "url": "/bummercitytwo/static/media/sweatshirtpose.10ab412f.jpg"
+  },
+  {
     "revision": "8c30329832177555df207ff5559339b4",
     "url": "/bummercitytwo/static/media/wafflecaper.8c303298.jpg"
+  },
+  {
+    "revision": "08f0722c6c8cd022028db3a064735b04",
+    "url": "/bummercitytwo/static/media/wafflecaperupstairs.08f0722c.jpg"
+  },
+  {
+    "revision": "052c750b61bb7144cc1269c01985276a",
+    "url": "/bummercitytwo/static/media/wafflehouse.052c750b.jpg"
+  },
+  {
+    "revision": "8263d9f6682c48ccd6e9976861aac6db",
+    "url": "/bummercitytwo/static/media/waffleinside.8263d9f6.jpg"
   }
 ]);
