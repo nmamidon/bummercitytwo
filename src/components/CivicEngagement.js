@@ -1,11 +1,16 @@
 import React from 'react';
 import Sidebar from './Sidebar';
 
-const CivicEngagement = () => {
+const CivicEngagement = ({ routeChange }) => {
 	return (
 		<div className="flex flex-wrap flex-nowrap-l">
 			<div className="mr4 w-100 b3">
 	        	<h1 className="baskerville bb b--moon-gray"><i>Civic Engagement Opportunities</i></h1>
+				<p><a href="#" onClick={()=>{routeChange("elections")}}>Elections & Voting Info</a></p>
+				<p><a href="#" onClick={()=>{routeChange("voterguides")}}>Voter Guides</a></p>
+				<p><a href="#" onClick={()=>{routeChange("issues")}}>Learn About the Issues</a></p>
+				<p><a href="#" onClick={()=>{routeChange("localgov")}}>How does Local Government Work?</a></p>
+
 	        	<h2>Civic Engagement As Routine</h2>
 				<p>A healthy democracy requires an engaged citizenry--but civic engagement takes many different forms other than just voting. There are daily, weekly, monthly, and yearly things that you can do to be a more active citizen/resident (as opposed to a passive citizen/resident). </p>
 				<p>In order to be impactful and sustainable in the long term, civic engagement needs to be woven into your life rather than reduced to attending one-off events or voting in Presidential elections every four years. You need to figure out what active citizenship/residency looks like for you and what kinds of engagement you can integrate into your life. Remember that a single parent who works full-time will have different answers than a full-time college student or an elderly retired person.</p> 

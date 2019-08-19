@@ -1,6 +1,8 @@
 import React from 'react';
 import Sidebar from './Sidebar';
 import wafflecaper from '../img/wafflecaper.jpg'
+import wafflecaperupstairs from '../img/wafflecaper/wafflecaperupstairs.jpg';
+import wafflehouse from '../img/wafflecaper/wafflehouse.jpg';
 
 const WaffleCaper = () => {
 	return (
@@ -11,6 +13,9 @@ const WaffleCaper = () => {
 	        	<p>Waffle House is the beating heart of an America that is trying to exist in this nightmare of normalcy--A land where we decide what kind of lives we will live; where reverence is not static, not located in an object, but a dynamic relationship we voluntarily and warmly cultivate; where the love of liberation gives us sure footing as we embark on the long walk to Us from the suffocating confines of Me.</p>
 	        	<p>This is a pilgrimage; heretics take note.</p>
 	        	<img src={wafflecaper} alt="a whole lotta waffles"/>
+	        	<img src={wafflecaperupstairs} alt="x" />
+	        	<img src={wafflehouse} alt="x" />
+	        	
 		    </div>
 	         <Sidebar />
          </div>

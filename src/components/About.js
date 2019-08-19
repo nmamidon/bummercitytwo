@@ -1,11 +1,15 @@
 import React from 'react';
 import Sidebar from './Sidebar';
+import sweatshirtpose from '../img/sweatshirtpose.jpg';
 
 const About = () => {
 	return (
 		<div className="flex flex-wrap flex-nowrap-l">
 			<div className="mr1 mr4-ns w-100">
 	        	<h1 className="baskerville bb b--moon-gray"><i>History</i></h1>
+
+	        	<img src={sweatshirtpose} alt="posin in the sweatest sweats" />
+
 		        <p>The Bummer City Historical Society & Civic Engagement Coalition (BCHS & BC.CEC) is a tiny, Boston-based arts and education organization, but it took a circuitous path to reach its current form. </p>
 
 		        <p>Between 2013 and 2015 a small crew of friends operated a living room show-space in Quincy, MA called Bane Voice which hosted 88 different artists from all over the US (and even some from abroad) in its brief two years of existence. Interested in making space for new artists (with a specific interest in promoting artists of marginalized identities) and in offering a replicable model of a comfortable, accessible, and communal art space, this crew sought to capture the Bane Voice project on film as a few (and then many) key figures made plans to move away from the Boston area. </p>

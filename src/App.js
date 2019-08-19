@@ -57,7 +57,7 @@ class App extends Component {
     } else if (page==="localgov") {
       return <LocalGov />;
     } else if (page==="civicengagement") {
-      return <CivicEngagement />
+      return <CivicEngagement routeChange={this.routeChange}/>
     } else if (page==="openmic") {
       return <OpenMic />
     } else if (page==="bcbc") {

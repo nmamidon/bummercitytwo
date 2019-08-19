@@ -13,6 +13,7 @@ import Lou from '../img/jimmy_and_lou.jpg'
 import Cheeseboys from '../img/cheese_boys_open_mic.jpg'
 import Legsnacks from '../img/leg/legsnacks.jpeg'
 import Bcbcamanda from '../img/bcbc/bcbcamanda.jpg'
+import Abouttile from '../img/wafflecaper/waffleinside.jpg';
 
 const CardList = ({ routeChange }) => {
 
@@ -80,6 +81,11 @@ const CardList = ({ routeChange }) => {
 			<div className="ma3 ba b--moon-gray br4 pa3 w-third">
 				<img src={Mcproffy} alt="didn't work" className="br2"/>
 				<h2 className="baskerville tc"><a href="#" onClick={()=>{routeChange("mctheprofessor")}}>MCtheProfessor.GOV</a></h2>
+			</div>
+
+			<div className="ma3 ba b--moon-gray br4 pa3 w-third">
+				<img src={Abouttile} alt="didn't work" className="br2"/>
+				<h2 className="baskerville tc"><a href="#" onClick={()=>{routeChange("about")}}>About</a></h2>
 			</div>
 		</div>
 	);
