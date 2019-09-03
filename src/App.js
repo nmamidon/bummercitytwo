@@ -19,6 +19,7 @@ import EventsList from './components/EventsList';
 import HouseShow from './components/HouseShow';
 import McTheProfessor from './components/McTheProfessor';
 import People from './components/People';
+import UpcomingCECEvents from './components/UpcomingCECEvents';
 import 'tachyons';
 
 
@@ -73,6 +74,8 @@ class App extends Component {
       return <McTheProfessor />
     } else if (page==="people") {
       return <People />
+    } else if (page==="upcomingcecevents") {
+      return <UpcomingCECEvents />
     } 
   }
 

@@ -8,6 +8,7 @@ const Nav = ({ routeChange }) => {
 			<ul>
 				<li><a href="#" onClick={()=>{routeChange("civicengagement")}}>CEC - Civic Engagement Coalition</a>
 					<ul>
+						<li><a href="#" onClick={()=>{routeChange("upcomingcecevents")}}>Upcoming Events</a></li>
 						<li><a href="#" onClick={()=>{routeChange("elections")}}>Elections & Voting Info</a></li>
 						<li><a href="#" onClick={()=>{routeChange("voterguides")}}>Voter Guides</a></li>
 						<li><a href="#" onClick={()=>{routeChange("issues")}}>Learn About the Issues</a></li>

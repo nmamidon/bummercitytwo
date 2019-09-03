@@ -6,6 +6,7 @@ const CivicEngagement = ({ routeChange }) => {
 		<div className="flex flex-wrap flex-nowrap-l">
 			<div className="mr4 w-100 b3">
 	        	<h1 className="baskerville bb b--moon-gray"><i>Civic Engagement Opportunities</i></h1>
+				<p><a href="#" onClick={()=>{routeChange("upcomingcecevents")}}>Upcoming Events</a></p>
 				<p><a href="#" onClick={()=>{routeChange("elections")}}>Elections & Voting Info</a></p>
 				<p><a href="#" onClick={()=>{routeChange("voterguides")}}>Voter Guides</a></p>
 				<p><a href="#" onClick={()=>{routeChange("issues")}}>Learn About the Issues</a></p>
