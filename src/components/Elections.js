@@ -8,7 +8,8 @@ const Elections = () => {
 	        	<h1 className="baskerville bb b--moon-gray"><i>Elections</i></h1>
 	        	<h2>Upcoming Elections</h2>
 	        	<h3>2019</h3>
-	        	<p><em>November 5th, 2019</em> -- State & Local Off-Year Elections</p>		    
+	        	<p><em>November 5th, 2019</em> -- State & Local Off-Year Elections</p>
+	        		<li><a href="https://drive.google.com/file/d/0B1JroPKomfUdbW1TU1BWOEhhZFl6a2JYWHZRc2dlSXFJVzZr/view?usp=sharing"><b>2019 Voting Guide</b></a></li>    
 	        	<h2>Past Elections</h2>
 	         	<h3>2018</h3>
 	         	<p><em>November 6th, 2018</em> -- General Midterm Elections</p>

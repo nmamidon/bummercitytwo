@@ -20,7 +20,7 @@ const McTheProfessor = () => {
 		    		<li> 
 		    			<a href="https://www.youtube.com/watch?v=h9ON8HtakPA">#3 - Civilization & Savagery: The Racial Ideologies of American Settler Colonialism and Imperialism</a>
 		    		</li>
-		    		<li>#4 - A Brief History of Japanese Americans</li>
+		    		<li><a href="https://www.youtube.com/watch?v=UrAUJmk2M8g">#4 - A Brief History of Japanese Americans</a></li>
 		    		<li>#5 - Testimony-as-Activism: Why Storytelling Matters</li>
 		    	</ul>
 		    	<img src={mcproffy1} alt="McProffy awesomeness"/>
