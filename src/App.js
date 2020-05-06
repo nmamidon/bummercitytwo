@@ -37,7 +37,6 @@ class App extends Component {
     if (page==="home"){
       return (
         <div>
-              <h1 class="tc"><a href="https://drive.google.com/file/d/0B1JroPKomfUdbW1TU1BWOEhhZFl6a2JYWHZRc2dlSXFJVzZr/view?usp=sharing"><b>2019 Voting Guide</b></a></h1>
               <img src={banner} alt="banner"/>
               <h1 className="baskerville tc mt4">Welcome to BCHS INTERNET HQ</h1>
               <p className="avenir tc mh6">Welcome to the official website of the Bummer City Historical Society & Civic Engagement Coalition, your one-stop-shopping destination for all your local government & public policy information, voting guidance, open mic & acoustic house concert needs! Wow!</p>
