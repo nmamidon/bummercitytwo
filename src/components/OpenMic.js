@@ -9,7 +9,7 @@ const OpenMic = () => {
 		<div className="flex flex-wrap flex-nowrap-l">
 			<div className="mr4 w-100">
 	        	<h1 className="baskerville bb"><i>Bummer City Open Mic (BCOM</i></h1>
-	        	<div className="pa3 ba b--pink br3 mv2 grow">
+	        	<div className="pa3 ba bw1 b--pink br3 mv2 grow">
 		        	<h3 className="hot-pink">
 		        		**As of March 2020, we have moved BCOM online, so anyone anywhere is welcome to participate! Follow the link below for more info. 
 		        	</h3>
