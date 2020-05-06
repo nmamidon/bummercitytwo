@@ -7,10 +7,14 @@ const Elections = () => {
 			<div className="mr4 w-100 mb3">
 	        	<h1 className="baskerville bb b--moon-gray"><i>Elections</i></h1>
 	        	<h2>Upcoming Elections</h2>
+	        	<h3>2020</h3>
+	        	<p><em>September 1st, 2020</em> -- Primary Congressional Elections (Massachusetts)</p>
+	        	<p><em>November 3, 2020</em> -- General Presidential Election</p>
+	        	<hr></hr>
+	        	<h2>Past Elections</h2>
 	        	<h3>2019</h3>
 	        	<p><em>November 5th, 2019</em> -- State & Local Off-Year Elections</p>
-	        		<li><a href="https://drive.google.com/file/d/0B1JroPKomfUdbW1TU1BWOEhhZFl6a2JYWHZRc2dlSXFJVzZr/view?usp=sharing"><b>2019 Voting Guide</b></a></li>    
-	        	<h2>Past Elections</h2>
+	        		<li><a href="https://drive.google.com/file/d/0B1JroPKomfUdbW1TU1BWOEhhZFl6a2JYWHZRc2dlSXFJVzZr/view?usp=sharing"><b>2019 Voting Guide</b></a></li> 
 	         	<h3>2018</h3>
 	         	<p><em>November 6th, 2018</em> -- General Midterm Elections</p>
 					<li><a href="https://ballotpedia.org/Election_results,_2018"><b>Election Results (Ballotpedia)</b></a></li>
