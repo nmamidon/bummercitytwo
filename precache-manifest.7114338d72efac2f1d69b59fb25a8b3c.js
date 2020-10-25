@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aec3b1c6ad524026f7c5d5701d33a9a6",
+    "revision": "bd538d50f2a65afb5b57cc19545c2b83",
     "url": "/index.html"
   },
   {
-    "revision": "a1fbb2a6a5d869305baa",
-    "url": "/static/css/2.036b41f9.chunk.css"
+    "revision": "e716c3d611f1abf90a5e",
+    "url": "/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "373852412e6ee60ef224",
-    "url": "/static/css/main.e50a7db9.chunk.css"
+    "revision": "efd600cc6c2825e883ee",
+    "url": "/static/css/main.4a7d2fc9.chunk.css"
   },
   {
-    "revision": "a1fbb2a6a5d869305baa",
-    "url": "/static/js/2.17549453.chunk.js"
+    "revision": "e716c3d611f1abf90a5e",
+    "url": "/static/js/2.7d885271.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.17549453.chunk.js.LICENSE.txt"
+    "revision": "570d362d673dab785e62d2b8563e1118",
+    "url": "/static/js/2.7d885271.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "373852412e6ee60ef224",
-    "url": "/static/js/main.d7337ab3.chunk.js"
+    "revision": "efd600cc6c2825e883ee",
+    "url": "/static/js/main.95ab4cea.chunk.js"
   },
   {
-    "revision": "85dc3f11b224c9b2c8e8",
-    "url": "/static/js/runtime-main.ab3e9a8b.js"
+    "revision": "4293d907c55e429450f7",
+    "url": "/static/js/runtime-main.f170c617.js"
+  },
+  {
+    "revision": "cad17c4f7045511c7f499a9a17bc55a3",
+    "url": "/static/media/2020-Voting-Guide-Bummer-City.cad17c4f.jpg"
   },
   {
     "revision": "f5ad31714fb1d28403411f292c3d2729",

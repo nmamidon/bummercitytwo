@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e50a7db9.chunk.css",
-    "main.js": "/static/js/main.d7337ab3.chunk.js",
-    "main.js.map": "/static/js/main.d7337ab3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab3e9a8b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab3e9a8b.js.map",
-    "static/css/2.036b41f9.chunk.css": "/static/css/2.036b41f9.chunk.css",
-    "static/js/2.17549453.chunk.js": "/static/js/2.17549453.chunk.js",
-    "static/js/2.17549453.chunk.js.map": "/static/js/2.17549453.chunk.js.map",
+    "main.css": "/static/css/main.4a7d2fc9.chunk.css",
+    "main.js": "/static/js/main.95ab4cea.chunk.js",
+    "main.js.map": "/static/js/main.95ab4cea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f170c617.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f170c617.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7d885271.chunk.js": "/static/js/2.7d885271.chunk.js",
+    "static/js/2.7d885271.chunk.js.map": "/static/js/2.7d885271.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.79fbad276f14635925c9657b043b8797.js": "/precache-manifest.79fbad276f14635925c9657b043b8797.js",
+    "precache-manifest.7114338d72efac2f1d69b59fb25a8b3c.js": "/precache-manifest.7114338d72efac2f1d69b59fb25a8b3c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.036b41f9.chunk.css.map": "/static/css/2.036b41f9.chunk.css.map",
-    "static/css/main.e50a7db9.chunk.css.map": "/static/css/main.e50a7db9.chunk.css.map",
-    "static/js/2.17549453.chunk.js.LICENSE.txt": "/static/js/2.17549453.chunk.js.LICENSE.txt",
+    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4a7d2fc9.chunk.css.map": "/static/css/main.4a7d2fc9.chunk.css.map",
+    "static/js/2.7d885271.chunk.js.LICENSE.txt": "/static/js/2.7d885271.chunk.js.LICENSE.txt",
+    "static/media/2020-Voting-Guide-Bummer-City.jpg": "/static/media/2020-Voting-Guide-Bummer-City.cad17c4f.jpg",
     "static/media/BCHSbanner.png": "/static/media/BCHSbanner.f5ad3171.png",
     "static/media/bawg-printed-everything.jpg": "/static/media/bawg-printed-everything.308ba1b2.jpg",
     "static/media/bcbcamanda.jpg": "/static/media/bcbcamanda.c0cc81d6.jpg",
@@ -43,10 +44,10 @@
     "static/media/waffleinside.jpg": "/static/media/waffleinside.8263d9f6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab3e9a8b.js",
-    "static/css/2.036b41f9.chunk.css",
-    "static/js/2.17549453.chunk.js",
-    "static/css/main.e50a7db9.chunk.css",
-    "static/js/main.d7337ab3.chunk.js"
+    "static/js/runtime-main.f170c617.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7d885271.chunk.js",
+    "static/css/main.4a7d2fc9.chunk.css",
+    "static/js/main.95ab4cea.chunk.js"
   ]
 }
