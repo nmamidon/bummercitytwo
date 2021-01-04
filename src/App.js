@@ -43,10 +43,6 @@ class App extends Component {
               <p className="avenir tc mh1 mh1-m mh6-ns">Welcome to the official website of the Bummer City Historical Society & Civic Engagement Coalition, your one-stop-shopping destination for all your local government & public policy information, voting guidance, open mic & acoustic house concert needs! Wow!</p>
               <p className="avenir tc mh6-ns mh1 mh1-m mb5">Contact us anytime at ⇢ <strong>bummercityhistoricalsociety@gmail.com</strong> ⇠</p>
               <hr className="mh6-ns mh1 mh1-m"/>
-              <h1 className="baskerville tc mt4">2020 VOTING GUIDE</h1>
-              <p className="avenir tc mh1-m mh1 mh6-ns">If you'd like to see a more detailed breakdown of the reasoning behind these endorsements, go to <a href="https://docs.google.com/document/d/1WUTHqUi_ahtz8182K7kuM_sINsGCt0TBYmNQ9hoJC5Q/edit">Full Voting Guide With Candidate Write-Ups Here</a>.</p>
-              <img src={votingguide} alt="2020 voting guide" className="db center w-60-ns w-100-m w-100"/>
-              <hr className="mh6-ns mh1 mh1-m mv5"/>
               <CardList routeChange={this.routeChange}/>
         </div>
       );
